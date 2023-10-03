@@ -54,3 +54,6 @@ This project includes visualizations created using Seaborn and Matplotlib to hel
 
 Contributing
 Contributions to this project are welcome! If you have ideas for improvements or new features, please feel free to open an issue or submit a pull request. Check out the contributing guidelines for more details.
+
+![Screenshot (188)](https://github.com/shubhampatel2810/Yt-analysis/assets/137332700/2de1fa6f-271e-4605-a7ad-cad24da2100c)
+
