@@ -55,5 +55,12 @@ This project includes visualizations created using Seaborn and Matplotlib to hel
 Contributing
 Contributions to this project are welcome! If you have ideas for improvements or new features, please feel free to open an issue or submit a pull request. Check out the contributing guidelines for more details.
 
+PICTURES OF SOME VISUALIZATION 
+![Screenshot (189)](https://github.com/shubhampatel2810/Yt-analysis/assets/137332700/ddbdf5b0-9396-4a07-8e20-406c464ff9cd)
+
+![Screenshot (190)](https://github.com/shubhampatel2810/Yt-analysis/assets/137332700/4447c5bc-73c7-4e2a-b870-1aa9be5df35a)
+
+![Screenshot (191)](https://github.com/shubhampatel2810/Yt-analysis/assets/137332700/0ac0f1cc-ab06-43c4-87aa-bbcb77159a1a)
+
 ![Screenshot (188)](https://github.com/shubhampatel2810/Yt-analysis/assets/137332700/2de1fa6f-271e-4605-a7ad-cad24da2100c)
 
